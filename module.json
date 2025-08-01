@@ -1,0 +1,14 @@
+{
+    "name": "language-pack",
+    "author": "hyacinth",
+    "description": "Add language support for the Reborn server.",
+    "version": "8/30/2025",
+    "options": {
+        "niceName": "language-pack",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://github.331663.xyz/https://raw.githubusercontent.com/Minor-fun/language-pack/master/"],
+    "disableAutoUpdate": false
+}

@@ -1,0 +1,15 @@
+{
+    "files": {
+        "DataCenter_Final_CN.dat": "b8fde8ad5772343320f1472f2f181e6da17bb2030658ad3b2b26aca5c11f74b0",
+        "DataCenter_Final_RUS.dat": "d637e80f7be4b6bc94a030197d64286426d54f881df30de637df99793e5ed443",
+        "GFxUI.eur": "68a6f57a0e7531b15db1dcc44d5f88c39450a16a2da0030ccc8850f511853d72",
+        "README.md": "1ef38b9eacef2995a1c94b8f0cf92e2f612259676e287548b28aa0cd95682176",
+        "fonts_tw.gpk": "f93b895241987bf23eeb0aa0592d32002d1338372b6b856b77a9066281c91db1",
+        "index.js": "5091032f46fa415cb558e36e773b3344da96a1d602c4d5f70d528f72aa59c455",
+        "locales/cn.json": "bb22ae6ede0eac4f01adc24b489dd408daba0197e1c6ec3420e738ea2bb8d294",
+        "locales/en.json": "082c3013cb000036c8511ff0a7898a0653b0989f1e8f14f976c62b7dca41be9c",
+        "locales/rus.json": "e67af6aa1d5941c0fa1812d3aa533509c3dea42c52ae6cc38df1af5cff9f6d87",
+        "module.json": "da2ffa27b584acd72a1566ead8a918fc6e772355e15c959de412dc7ffcd67a34",
+        "settings_migrator.js": "3fe4a57afb19a6367e09854649f48752d756b2c8623f4b291cac429e6a1ada33"
+    }
+}
